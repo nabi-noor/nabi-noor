@@ -1,18 +1,71 @@
-# 💫 About Me:
-Hi I am Noor,<br>I am a seasoned backend dev with expertise in AWS, Azure, Oracle and some other providers as well.<br>I have been really fascinated by Agentic AI lately<br>My techstack includes but is not limited to<br>Node, Python, Go, AWS Serverless, FastAPI, Nest and many more<br>I work at rulrr.com at the moment and have over 5 years of experiance working in multiple roles
+# 👋 Hey, I'm Noor Nabi
 
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/nabi-noor) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mightbenoor) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nabi-noor) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:panhwarnabinoor@gmail.com) 
-
-# 💻 Tech Stack:
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Fastlane](https://img.shields.io/badge/fastlane-%2382bd4e.svg?style=for-the-badge&logo=fastlane&logoColor=black) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=nabi-noor&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=nabi-noor&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nabi-noor&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+🚀 **Cloud-Native Backend & DevOps Engineer**  
+Building scalable systems, serverless architectures, and AI-driven products that make tech *feel effortless.*
 
 ---
-[![](https://visitcount.itsvg.in/api?id=nabi-noor&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 💡 About Me
+- 🧠 Backend engineer with **3+ years** of experience designing and automating **AWS serverless** and **microservice** architectures.  
+- 💬 Passionate about **AI integrations**, **RAG systems**, and **LLM-powered** workflows.  
+- 🛠 Obsessed with **CI/CD**, **cost optimization**, and **developer experience**.  
+- 🤝 Collaborating globally on scalable, intelligent systems — currently at **Odea Integrations**.  
+
+---
+
+### 🧱 Tech Stack
+| Domain | Tools & Technologies |
+|--------|----------------------|
+| **Languages** | Node.js, TypeScript, Python, Bash |
+| **Frameworks** | Fastify, NestJS, Express, Django |
+| **Cloud & DevOps** | AWS (Lambda, API Gateway, ECS, DynamoDB, CloudFormation, Cognito, S3, Kinesis, CloudWatch, IAM, VPC) |
+| **CI/CD** | Bitbucket Pipelines, GitHub Actions |
+| **Databases** | PostgreSQL, MySQL, DynamoDB, MongoDB |
+| **Containers** | Docker |
+| **Other** | Linux (Ubuntu), REST APIs, Automation Scripts |
+
+---
+
+### ⚙️ Featured Projects
+
+#### 🧩 [Konvrsa](https://github.com/nabi-noor) – Virtual Agent Extension for Amazon Connect
+> Conversational AI platform that augments contact centers with **voice-based virtual agents**.  
+- Integrated **OpenAI, Deepgram, and 11Labs** for dynamic speech + response generation.  
+- Deployed modular **Pipecat** microservices on AWS EC2 with **Lambda-based orchestration**.  
+- Built auto-updating **Lambda Layers** using Git-based CI/CD workflows.  
+
+#### 🏡 [VellumGPT](https://github.com/nabi-noor) – RAG Chat Platform for Real Estate
+> Retrieval-Augmented Generation app empowering real-estate professionals to access internal documents faster.  
+- Designed custom **RAG pipeline** for semantic retrieval and LLM-based Q&A.  
+- Developed Node.js backend for vectorized document management and query routing.  
+- Integrated embedding generation, metadata tagging, and vector database ingestion.
+
+#### 📊 [Omni Dashboard](https://github.com/nabi-noor) – Amazon Connect Insights Platform
+> Fully customizable dashboard system delivering real-time and historical contact center metrics.  
+- Built serverless APIs with **AWS Lambda, API Gateway, and Node.js**.  
+- Automated infrastructure using **Serverless Framework + CloudFormation**.  
+- Deployed enterprise dashboards with **zero downtime** and high observability.
+
+---
+
+### 🌱 What I’m Exploring
+- 🧩 **AWS Bedrock + OpenSearch Serverless** for production-grade RAG systems  
+- ⚙️ **Event-driven architectures** using EventBridge + Step Functions  
+- 🧠 **AI-driven CI/CD intelligence** to automate testing and deployment patterns  
+
+---
+
+### 📬 Let’s Connect
+- 🌐 [noornabi.me](https://noornabi.me)
+- 💼 [LinkedIn](https://linkedin.com/in/nabi-noor)
+- 💻 [GitHub](https://github.com/nabi-noor)
+- 📧 [panhwarnabinoor@gmail.com](mailto:panhwarnabinoor@gmail.com)
+
+---
+
+> “I don’t just deploy systems — I automate the way they evolve.”  
+> — *Noor Nabi*
+
+---
+
+⭐️ *If you found my projects helpful or inspiring, consider giving them a star — it fuels more builds and fewer redeploys!*
