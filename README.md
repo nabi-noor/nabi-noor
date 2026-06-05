@@ -1,7 +1,7 @@
 <!-- HEADER -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Noor+Nabi!+%F0%9F%91%8B;Cloud+Engineer+%26+Backend+Developer+%40+Rulrr;Building+Serverless%2C+Multi-Tenant+%26+RAG+Systems+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Noor+Nabi!+%F0%9F%91%8B;Cloud+Engineer+%26+Backend+Developer+%7C+AWS;Building+Serverless%2C+Multi-Tenant+%26+RAG+Systems+%F0%9F%9A%80" alt="Typing SVG" />
 
 ---
 
@@ -16,7 +16,7 @@
 ## 🏆 About Me
 
 - 💻 Cloud & Backend Engineer with **4+ years** building **serverless architectures** and **CI/CD automation** on AWS
-- 🏗️ Currently **Cloud Engineer & Backend Developer @ Rulrr** — multi-tenant platforms on **AWS ECS / Lambda**
+- 🏗️ Building **multi-tenant platforms** on **AWS ECS / Lambda** — provisioning, orchestration, and observability
 - 🧠 Skilled in **RAG systems**, **AI integrations**, and **LLM pipelines**
 - ⚙️ Strong believer in “**automate everything that repeats twice**”
 - 📍 Karachi, Pakistan (UTC+5) · open to remote
