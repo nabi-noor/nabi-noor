@@ -109,15 +109,14 @@
 
 ---
 
-## 🏅 GitHub Stats & Achievements
+## 🏅 GitHub Stats
 
 <div align="center">
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=nabi-noor&theme=tokyonight&hide_border=true&border_radius=6)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nabi-noor&layout=compact&theme=tokyonight&hide_border=true)
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=nabi-noor&theme=onedark&no-frame=true&no-bg=true&column=6&margin-w=10&margin-h=10)
+[![Profile Views](https://komarev.com/ghpvc/?username=nabi-noor&style=for-the-badge&color=00BFFF&label=Profile+Views)](https://github.com/nabi-noor)
+![Followers](https://img.shields.io/github/followers/nabi-noor?style=for-the-badge&color=0077B5&logo=github&label=Followers)
 
 </div>
 
